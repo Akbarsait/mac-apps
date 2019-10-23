@@ -7,3 +7,4 @@ This document is to capture the details on free and paid Macbook apps.
 - [iTerm2](https://www.iterm2.com/index.html) Enhanced Terminal with Split panes, profiles, hotkeys etc. 
 - [GitKirkan](https://www.gitkraken.com/invite/vRYEtHQi) The best Git GUI for Mac and Windows and it's free. 
 - [ImpageOptim](https://imageoptim.com/mac) To reduce Image file size and optimize it. 
+- [fork](https://fork.dev) Another simple Git client for Mac and Windows with no strings attached. 
