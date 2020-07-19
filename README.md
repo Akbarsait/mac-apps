@@ -9,3 +9,5 @@ This document is to capture the details on free and paid Macbook apps.
 - [ImpageOptim](https://imageoptim.com/mac) To reduce Image file size and optimize it. 
 - [fork](https://fork.dev) Another simple Git client for Mac and Windows with no strings attached. 
 - [Commander One](https://apps.apple.com/us/app/commander-one-file-manager/id1035236694?mt=12) Dual File Manager for Mac with better features. 
+- [vanilla](https://matthewpalmer.net/vanilla/) A menubar manager to Hide the clutters in Mac menubar. 
+- [Bear](https://bear.app/) A better note taking with Markdown support. 
