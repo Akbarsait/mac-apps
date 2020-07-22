@@ -1,7 +1,11 @@
 # MacOS Applications & Tips
 A simple list of best and useful apps which are avaialbel for free and as well in paid version for everydays productivity. Includes some quick tips which I find really useful for users who switched from windows. 
 
-**Productivity Apps**
+- [Productivity Apps](#productivity-apps)
+- [Database Apps](#database-apps)
+- [Quick Tips](#quick-tips)
+
+## Productivity Apps
 - [Alfred](https://www.alfredapp.com/) Helps improving the effeciency with Hotkey, keywords etc. 
 - [Spectacle](https://www.spectacleapp.com/) Helps moving and resizing windows like a charm. 
 - [iTerm2](https://www.iterm2.com/index.html) Enhanced Terminal with Split panes, profiles, hotkeys etc. 
@@ -16,11 +20,11 @@ A simple list of best and useful apps which are avaialbel for free and as well i
 - [IINA](https://iina.io/) A rich and modern Video player which plays all media formats. 
 - [Horo](https://matthewpalmer.net/horo-free-timer-mac/) A little timer which lives in toolbar. Handles multiple timers and it's free. 
 
-**Database Apps**
+## Database Apps
 - [Tableplus](https://tableplus.com/) A lightweight GUI for MySQL, PostgreSQL and many more. 
 - [sequelpro](https://www.sequelpro.com/) A mac client for MySQL
 - [PSequel](http://www.psequel.com/) A specific client for PostgreSQL
 - [Postico](https://eggerapps.at/postico/) A simple and modern PostgreSQL client avaiable in both free and paid version
 
-**Mac Tips**
+## Quick Tipe
 - Map a Ne
