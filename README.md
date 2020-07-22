@@ -1,5 +1,5 @@
-# MacOS Applications 
-Page to highligh some of the best and useful apps which are avaialbel for free and as well in paid version for everydays productivity. 
+# MacOS Applications & Tips
+A simple list of best and useful apps which are avaialbel for free and as well in paid version for everydays productivity. Includes some quick tips which I find really useful for users who switched from windows. 
 
 **Productivity Apps**
 - [Alfred](https://www.alfredapp.com/) Helps improving the effeciency with Hotkey, keywords etc. 
@@ -20,3 +20,7 @@ Page to highligh some of the best and useful apps which are avaialbel for free a
 - [Tableplus](https://tableplus.com/) A lightweight GUI for MySQL, PostgreSQL and many more. 
 - [sequelpro](https://www.sequelpro.com/) A mac client for MySQL
 - [PSequel](http://www.psequel.com/) A specific client for PostgreSQL
+- [Postico](https://eggerapps.at/postico/) A simple and modern PostgreSQL client avaiable in both free and paid version
+
+**Mac Tips**
+- Map a Ne
