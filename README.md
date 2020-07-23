@@ -28,6 +28,6 @@ A simple list of best and useful apps which are avaialbel for free and as well i
 
 ## Quick Tips
 - **Map a Network Drive in Mac**
-1. In Finder,hit Command+K to bring up “Connect to Server” or click Go > Connect to Server
-2. Enter the network path you’re trying to map (e.g. smb://mydrivepath/compnetwork/) and click Connect
-2. Enter login credentials and click OK to mount the network drive
+1. In Finder,hit Command+K to bring up “Connect to Server” or click Go > Connect to Server.
+2. Enter the network path you’re trying to map (e.g. smb://mydrivepath/compnetwork/) and click Connect.
+3. Enter login credentials and click OK to mount the network drive.
