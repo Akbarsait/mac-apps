@@ -1,5 +1,5 @@
 # MacOS Applications & Tips
-A simple list of best and useful apps which are avaialbel for free and as well in paid version for everydays productivity. Includes some quick tips which I find really useful for users who switched from windows. 
+A simple list of best and useful apps which are available for free and as well in paid version for everydays productivity. Includes some quick tips which I find really useful for users who switched from windows. 
 
 - [Productivity Apps](#productivity-apps)
 - [Database Apps](#database-apps)
@@ -27,7 +27,7 @@ A simple list of best and useful apps which are avaialbel for free and as well i
 - [Postico](https://eggerapps.at/postico/) A simple and modern PostgreSQL client avaiable in both free and paid version
 
 ## Quick Tips
-- **Map a Network Drive in Mac**
+**Map a Network Drive in Mac**
 1. In Finder,hit Command+K to bring up “Connect to Server” or click Go > Connect to Server.
 2. Enter the network path you’re trying to map (e.g. smb://mydrivepath/compnetwork/) and click Connect.
 3. Enter login credentials and click OK to mount the network drive.
