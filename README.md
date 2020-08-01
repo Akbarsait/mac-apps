@@ -19,6 +19,7 @@ A simple list of best and useful apps which are available for free and as well i
 - [Notion](https://www.notion.so/) A must having note taking app supports all platforms and now with free unlimited contents. 
 - [IINA](https://iina.io/) A rich and modern Video player which plays all media formats. 
 - [Horo](https://matthewpalmer.net/horo-free-timer-mac/) A little timer which lives in toolbar. Handles multiple timers and it's free. 
+- [XtraFinder](https://www.trankynam.com/xtrafinder/) A free Finder tool that provides a good amount of features not available in default Mac finder. 
 
 ## Database Apps
 - [Tableplus](https://tableplus.com/) A lightweight GUI for MySQL, PostgreSQL and many more. 
