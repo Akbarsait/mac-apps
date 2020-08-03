@@ -20,8 +20,9 @@ A simple list of best and useful apps which are available for free and as well i
 - [Horo](https://matthewpalmer.net/horo-free-timer-mac/) A little timer which lives in toolbar. Handles multiple timers and it's free. 
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) A free Finder tool that provides a good amount of features not available in default Mac finder. 
 
-## Database Apps
+## Data Related Apps
 - [Tableplus](https://tableplus.com/) A lightweight GUI for MySQL, PostgreSQL and many more. 
 - [sequelpro](https://www.sequelpro.com/) A mac client for MySQL
 - [PSequel](http://www.psequel.com/) A specific client for PostgreSQL
 - [Postico](https://eggerapps.at/postico/) A simple and modern PostgreSQL client avaiable in both free and paid version
+- [GraphSketcher](https://github.com/graphsketcher/GraphSketcher) A lightweight app which helps in quickly generating basic graphical displays.
