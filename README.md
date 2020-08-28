@@ -21,6 +21,7 @@ A simple list of best and useful apps which are available for free and as well i
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) A free Finder tool that provides a good amount of features not available in default Mac finder. 
 - [Go2Sheel](https://itunes.apple.com/us/app/go2shell/id445770608?mt=12) A free tiny utility that helps to open a terminal window to the current directory in Finder. 
 - [Dash](https://kapeli.com/dash) - A free code snippet manager and an API documentation browser with instant offline access to 200+ APIs. 
+- [Spark](https://sparkmailapp.com/) - A free and paid version app with simplicity and feature-rich email client for Mac. 
 
 ## Data Related Apps
 - [Tableplus](https://tableplus.com/) A lightweight GUI for MySQL, PostgreSQL and many more. 
