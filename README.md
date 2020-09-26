@@ -30,3 +30,4 @@ A simple list of best and useful apps which are available for free and as well i
 - [PSequel](http://www.psequel.com/) A specific client for PostgreSQL
 - [Postico](https://eggerapps.at/postico/) A simple and modern PostgreSQL client avaiable in both free and paid version
 - [GraphSketcher](https://github.com/graphsketcher/GraphSketcher) A lightweight app which helps in quickly generating basic graphical displays.
+- [Beekeeper studio](https://www.beekeeperstudio.io/) A free opensource cross-platform tool for managing MySQL, Postgres, SQLite, SQL Server SQL Client. 
